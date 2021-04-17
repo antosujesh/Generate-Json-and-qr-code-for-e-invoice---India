@@ -1,0 +1,1 @@
+Data Source=DESKTOP-IB5RH04;Initial Catalog=Machin;Integrated Security=True;Max Pool Size=1000;

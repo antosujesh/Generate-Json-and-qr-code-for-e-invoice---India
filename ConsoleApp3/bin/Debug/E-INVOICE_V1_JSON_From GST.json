@@ -1,0 +1,96 @@
+[
+{
+"Version":"1.1",
+"TranDtls":{
+               "TaxSch":"GST",
+               "SupTyp":"B2B",
+               "IgstOnIntra":"N",
+               "RegRev":null,
+               "EcmGstin":null
+},
+"DocDtls":{
+               "Typ":"INV",
+               "No":"MP/DO/1001/20-21",
+               "Dt":"28/01/2021"
+},
+"SellerDtls":{
+               "Gstin":"33AAAFT2536L1Z8",
+               "LglNm":"THE MADRAS PHARMACEUTICALS",
+               "TrdNm":null,
+               "Addr1":"NO.137-B, OLD MAHABALIPURAM ROAD",
+               "Addr2":null,
+               "Loc":"CHENNAI",
+               "Pin":600096,
+               "Stcd":"33",
+               "Ph":null,
+               "Em":null
+},
+"BuyerDtls":{
+               "Gstin":"24AAACT5456A1ZR",
+               "LglNm":"Torrent Pharmaceuticals Ltd",
+               "TrdNm":"Torrent Pharmaceuticals Ltd",
+               "Pos":"24",
+               "Addr1":"At  Suvarna Processors Plot No 160",
+               "Addr2":"Dholka Road, Opp Varsha Fashion,",
+               "Loc":"Gujarat",
+               "Pin":382425,
+               "Stcd":"24",
+               "Ph":null,
+               "Em":null
+},
+"ShipDtls":null,
+"ValDtls":{
+               "AssVal":409728.00,
+               "IgstVal":49167.36,
+               "CgstVal":0,
+               "SgstVal":0,
+               "CesVal":0,
+               "StCesVal":0,
+               "Discount":0,
+               "OthChrg":0,
+               "RndOffAmt":-0.36,
+               "TotInvVal":458895.00
+},
+"ExpDtls":{
+               "ShipBNo":null,
+               "ShipBDt":null,
+               "Port":null,
+               "RefClm":null,
+               "ForCur":null,
+               "CntCode":null,
+               "ExpDuty":0
+},
+"EwbDtls":null,
+                         "ItemList":[{
+                                "SlNo":"1",
+                                "PrdDesc":"ZYNCET DOMESTIC 60ml",
+                                "IsServc":"N",
+                                "HsnCd":"3004",
+                                "Qty":29100.000,
+                                "Unit":"UNT",
+                                "UnitPrice":14.080,
+                                "TotAmt":409728.00,
+                                "Discount":0,
+                                "PreTaxVal":0,
+                                "AssAmt":409728.00,
+                                "GstRt":12,
+                                "IgstAmt":49167.36,
+                                "CgstAmt":0,
+                                "SgstAmt":0,
+                                "CesRt":0,
+                                "CesAmt":0,
+                                "CesNonAdvlAmt":0,
+                                "StateCesRt":0,
+                                "StateCesAmt":0,
+                                "StateCesNonAdvlAmt":0,
+                                "OthChrg":0,
+                                "TotItemVal":458895.36,
+                                "BchDtls":{
+                                   "Nm":"M201314",
+                                   "ExpDt":"01/09/2020",
+                                   "WrDt":"31/08/2023"
+                                   }
+                              }
+                              ]
+}
+]
